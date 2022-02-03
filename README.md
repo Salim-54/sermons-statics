@@ -1,0 +1,2 @@
+# sermons-statics
+just statics
